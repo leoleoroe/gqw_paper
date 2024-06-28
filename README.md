@@ -46,6 +46,8 @@ the file Experiments.ipynb has included data set generation and was previously u
 
 tests.ipynb handles testing
 
+test_results.csv is an overview of all test results. ongoing list, can be filtered by timestamp
+
 results.ipynb handles graph building etc for analysis
 
 
