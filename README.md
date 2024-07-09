@@ -42,7 +42,11 @@ this folder has everything that is being generated.
 
 ## Workflow
 
-the file Experiments.ipynb has included data set generation and was previously used to also run tests and plotting (results) in. 
+[Depreciated] Experiments.ipynb has included data set generation and was previously used to also run tests and plotting (results) in. 
+
+NOW:
+
+GraphDataGeneration.ipynb handles graph building and data fitting via IIDSimulation
 
 tests.ipynb handles testing
 
